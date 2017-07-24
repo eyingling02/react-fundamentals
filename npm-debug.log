@@ -1,0 +1,137 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/ericayingling/.nvm/versions/node/v4.3.1/bin/node',
+1 verbose cli   '/Users/ericayingling/.nvm/versions/node/v4.3.1/bin/npm',
+1 verbose cli   'i' ]
+2 info using npm@2.14.12
+3 info using node@v4.3.1
+4 verbose readDependencies loading dependencies from /Users/ericayingling/Documents/react-fundamentals/package.json
+5 warn package.json github-battle@1.0.0 No repository field.
+6 warn package.json github-battle@1.0.0 No README data
+7 verbose install where, deps [ '/Users/ericayingling/Documents/react-fundamentals',
+7 verbose install   [ 'axios',
+7 verbose install     'lodash',
+7 verbose install     'prop-types',
+7 verbose install     'react',
+7 verbose install     'react-dom',
+7 verbose install     'react-router-dom',
+7 verbose install     'babel-core',
+7 verbose install     'babel-loader',
+7 verbose install     'babel-preset-env',
+7 verbose install     'babel-preset-react',
+7 verbose install     'css-loader',
+7 verbose install     'html-webpack-plugin',
+7 verbose install     'style-loader',
+7 verbose install     'webpack',
+7 verbose install     'webpack-dev-server' ] ]
+8 verbose install where, peers [ '/Users/ericayingling/Documents/react-fundamentals', [] ]
+9 verbose installManyTop reading for lifecycle /Users/ericayingling/Documents/react-fundamentals/package.json
+10 info preinstall github-battle@1.0.0
+11 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/axios/package.json
+12 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/babel-core/package.json
+13 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/babel-loader/package.json
+14 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/babel-preset-env/package.json
+15 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/babel-preset-react/package.json
+16 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/css-loader/package.json
+17 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/html-webpack-plugin/package.json
+18 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/lodash/package.json
+19 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/loglevel/package.json
+20 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/prop-types/package.json
+21 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/react/package.json
+22 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/react-dom/package.json
+23 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/react-router-dom/package.json
+24 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/style-loader/package.json
+25 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/webpack/package.json
+26 verbose installManyTop reading scoped package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/webpack-dev-server/package.json
+27 verbose readDependencies loading dependencies from /Users/ericayingling/Documents/react-fundamentals/package.json
+28 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/axios/package.json
+29 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/babel-core/package.json
+30 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/babel-loader/package.json
+31 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/babel-preset-env/package.json
+32 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/babel-preset-react/package.json
+33 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/css-loader/package.json
+34 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/html-webpack-plugin/package.json
+35 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/lodash/package.json
+36 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/loglevel/package.json
+37 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/prop-types/package.json
+38 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/react/package.json
+39 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/react-dom/package.json
+40 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/react-router-dom/package.json
+41 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/style-loader/package.json
+42 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/webpack/package.json
+43 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/webpack-dev-server/package.json
+44 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/.bin/webpack/package.json
+45 verbose targetResolver reading package data from /Users/ericayingling/Documents/react-fundamentals/node_modules/.bin/webpack-dev-server/package.json
+46 verbose already installed skipping babel-preset-react@^6.23.0 /Users/ericayingling/Documents/react-fundamentals
+47 verbose already installed skipping css-loader@^0.27.3 /Users/ericayingling/Documents/react-fundamentals
+48 verbose already installed skipping html-webpack-plugin@^2.28.0 /Users/ericayingling/Documents/react-fundamentals
+49 verbose already installed skipping style-loader@^0.16.0 /Users/ericayingling/Documents/react-fundamentals
+50 verbose already installed skipping webpack@^2.3.1 /Users/ericayingling/Documents/react-fundamentals
+51 verbose already installed skipping webpack-dev-server@^2.4.2 /Users/ericayingling/Documents/react-fundamentals
+52 verbose already installed skipping axios@^0.16.2 /Users/ericayingling/Documents/react-fundamentals
+53 verbose already installed skipping lodash@^4.17.4 /Users/ericayingling/Documents/react-fundamentals
+54 verbose already installed skipping prop-types@^15.5.10 /Users/ericayingling/Documents/react-fundamentals
+55 verbose already installed skipping react@^16.0.0-alpha.5 /Users/ericayingling/Documents/react-fundamentals
+56 verbose already installed skipping react-dom@^16.0.0-alpha.5 /Users/ericayingling/Documents/react-fundamentals
+57 verbose already installed skipping react-router-dom@^4.0.0 /Users/ericayingling/Documents/react-fundamentals
+58 verbose already installed skipping babel-core@^6.24.0 /Users/ericayingling/Documents/react-fundamentals
+59 verbose already installed skipping babel-loader@^6.4.1 /Users/ericayingling/Documents/react-fundamentals
+60 verbose already installed skipping babel-preset-env@^1.2.2 /Users/ericayingling/Documents/react-fundamentals
+61 silly install resolved []
+62 info build /Users/ericayingling/Documents/react-fundamentals
+63 info linkStuff github-battle@1.0.0
+64 silly linkStuff github-battle@1.0.0 has /Users/ericayingling/Documents as its parent node_modules
+65 verbose linkBins github-battle@1.0.0
+66 verbose linkMans github-battle@1.0.0
+67 verbose rebuildBundles github-battle@1.0.0
+68 verbose rebuildBundles [ '.bin',
+68 verbose rebuildBundles   'axios',
+68 verbose rebuildBundles   'babel-core',
+68 verbose rebuildBundles   'babel-loader',
+68 verbose rebuildBundles   'babel-preset-env',
+68 verbose rebuildBundles   'babel-preset-react',
+68 verbose rebuildBundles   'css-loader',
+68 verbose rebuildBundles   'html-webpack-plugin',
+68 verbose rebuildBundles   'lodash',
+68 verbose rebuildBundles   'loglevel',
+68 verbose rebuildBundles   'prop-types',
+68 verbose rebuildBundles   'react',
+68 verbose rebuildBundles   'react-dom',
+68 verbose rebuildBundles   'react-router-dom',
+68 verbose rebuildBundles   'style-loader',
+68 verbose rebuildBundles   'webpack',
+68 verbose rebuildBundles   'webpack-dev-server' ]
+69 verbose rebuild bundle /Users/ericayingling/Documents/react-fundamentals/node_modules/loglevel
+70 info build /Users/ericayingling/Documents/react-fundamentals/node_modules/loglevel
+71 info preinstall loglevel@1.4.1
+72 info linkStuff loglevel@1.4.1
+73 silly linkStuff loglevel@1.4.1 has /Users/ericayingling/Documents/react-fundamentals/node_modules as its parent node_modules
+74 verbose linkBins loglevel@1.4.1
+75 verbose linkMans loglevel@1.4.1
+76 verbose rebuildBundles loglevel@1.4.1
+77 info install loglevel@1.4.1
+78 info postinstall loglevel@1.4.1
+79 info install github-battle@1.0.0
+80 info postinstall github-battle@1.0.0
+81 info prepublish github-battle@1.0.0
+82 verbose validateInstall loading /Users/ericayingling/Documents/react-fundamentals/package.json for validation
+83 verbose stack Error: The package react@16.0.0-alpha.13 does not satisfy its siblings' peerDependencies requirements!
+83 verbose stack     at /Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/lib/install.js:125:32
+83 verbose stack     at /Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/lib/install.js:268:7
+83 verbose stack     at /Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+83 verbose stack     at /Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+83 verbose stack     at cb (/Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+83 verbose stack     at /Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+83 verbose stack     at cb (/Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+83 verbose stack     at /Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+83 verbose stack     at cb (/Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+83 verbose stack     at /Users/ericayingling/.nvm/versions/node/v4.3.1/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+84 verbose cwd /Users/ericayingling/Documents/react-fundamentals
+85 error Darwin 17.0.0
+86 error argv "/Users/ericayingling/.nvm/versions/node/v4.3.1/bin/node" "/Users/ericayingling/.nvm/versions/node/v4.3.1/bin/npm" "i"
+87 error node v4.3.1
+88 error npm  v2.14.12
+89 error code EPEERINVALID
+90 error peerinvalid The package react@16.0.0-alpha.13 does not satisfy its siblings' peerDependencies requirements!
+90 error peerinvalid Peer react-dom@16.0.0-alpha.13 wants react@^16.0.0-alpha.13
+90 error peerinvalid Peer react-router-dom@4.1.2 wants react@^15
+91 verbose exit [ 1, true ]
